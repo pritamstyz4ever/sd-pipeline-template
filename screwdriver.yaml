@@ -1,5 +1,5 @@
 shared:
-  image: node:8
+  image: node:lts
 jobs:
   # 1. Validate pipeline template
   validate_template:
